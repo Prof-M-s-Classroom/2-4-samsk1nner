@@ -11,6 +11,7 @@ private:
 
 public:
     // Constructor
+    Robot(string name, string model, int batteryLife)
 
     // Getter Methods
 
