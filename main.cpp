@@ -12,7 +12,6 @@ private:
 public:
     // Constructor
 
-
     // Getter Methods
 
 
